@@ -1,34 +1,39 @@
-# Visual Focus Analyzer
+# Visual Focus Analyzer  
+### Developed by Subhan
 
-Visual Focus Analyzer is a desktop-based UI attention analysis tool that generates saliency heatmaps from screenshots.
+Visual Focus Analyzer is a desktop-based UI attention analysis tool built by Subhan for generating saliency heatmaps from screenshots.
 
-It helps identify where users are most likely to focus, making it useful for CRO, UI/UX design, and layout optimization.
-
----
-
-## Preview
-
-(Add your heatmap screenshot here later if you want)
+It helps identify where users are most likely to focus on a design, making it useful for CRO, UI/UX analysis, landing page reviews, CTA visibility checks, and visual hierarchy improvement.
 
 ---
 
-## Features
+## What It Does
+
+Visual Focus Analyzer allows users to upload screenshots of websites, landing pages, or app screens and generate attention heatmaps that highlight likely focus areas.
+
+This makes it easier to review whether a design is drawing attention to the right places before making development or CRO decisions.
+
+---
+
+## Key Features
 
 - Upload UI screenshots
 - Generate visual attention heatmaps
-- Desktop app experience (no coding required after setup)
-- Adjustable image width slider for performance control
+- Desktop app workflow
 - Downloadable heatmap output
+- Adjustable image width slider for better performance and smoother processing
+- Simple interface for non-technical users
 
 ---
 
 ## Use Cases
 
 - Conversion Rate Optimization (CRO)
-- UI/UX design validation
+- UI/UX design reviews
 - Landing page analysis
-- CTA visibility testing
-- Visual hierarchy improvement
+- CTA visibility validation
+- Visual hierarchy testing
+- Early design decision support
 
 ---
 
@@ -36,9 +41,9 @@ It helps identify where users are most likely to focus, making it useful for CRO
 
 - Python
 - Streamlit
-- PyWebView (desktop wrapper)
+- PyWebView
 - PyTorch
-- DeepGaze (saliency model)
+- DeepGaze
 - OpenAI CLIP
 
 ---
