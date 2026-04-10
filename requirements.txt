@@ -1,0 +1,12 @@
+streamlit
+numpy
+scipy
+pillow
+matplotlib
+torch
+torchvision
+einops
+requests
+pywebview
+git+https://github.com/openai/CLIP.git
+git+https://github.com/matthias-k/DeepGaze.git

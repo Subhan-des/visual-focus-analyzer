@@ -1,0 +1,13 @@
+.venv/
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+*.log
+.streamlit/
+dist/
+build/
+*.spec
